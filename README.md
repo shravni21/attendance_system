@@ -9,6 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/91143764/170880576-f33771b5-8e23-4bd8-b69a-b4f339a990e5.png)
 
+
 # Results: 
       Here we used 2 algorithms to predict the face. They are –
 

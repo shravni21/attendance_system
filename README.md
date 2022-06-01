@@ -1,17 +1,17 @@
 # Face Recognition Attendance System
 
 # Introduction: 
-       The project is about Face recognition based Attendance System. By using this system, attendance can be taken simply facing the camera. This system has the ability to detect any face and based on training data it can recognize and register the attendance for that student. It is very simple and easy way to take attendance in any class using this system. And it is a very secure and accurate system.
+       The project is about Face recognition based Attendance System. By using this system, attendance can be taken simply facing the camera. This system has the ability to detect any face and based on training data. It can recognize and register the attendance for that student. It is very simple and easy way to take attendance in any class using this system. It is a very secure and accurate system.
 
 
 # Description: 
-     The used system is very simple. Simple steps are used in very effective way. Here is a flowchart describing the steps ---
+    Flowchart describing System
 
 ![Screenshot (184)](https://user-images.githubusercontent.com/91143764/170944044-a69a2a7f-061e-49fc-ab8b-5f0097921097.png)
 
 
 # Results: 
-      Here we used 2 algorithms to predict the face. They are –
+      Algoriths used:
 
 ![image](https://user-images.githubusercontent.com/91143764/170945571-24576ea4-6795-4fcf-a95c-977983432b69.png)
 

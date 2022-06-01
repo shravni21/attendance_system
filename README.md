@@ -15,6 +15,11 @@
 
 ![image](https://user-images.githubusercontent.com/91143764/170945571-24576ea4-6795-4fcf-a95c-977983432b69.png)
 
+# Simulation Video: 
+
+![link](https://youtu.be/TQ60ORc1SV4)
+
+
 
 # Challenges: 
       Though we claim our system is accurate but for achieving the accuracy we had to go through some challenges. The most frequent ones were the change of environment during taking the photos. We had to adjust our algorithm to the required state to get the accuracy. Another challenge was creating csv file and input data into it directly from code for recording the attendances. We still have some difficulties in the system. But we are certain that we can overcome the remaining challenges.
